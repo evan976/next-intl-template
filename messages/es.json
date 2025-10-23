@@ -1,0 +1,5 @@
+{
+  "welcome": "¡Bienvenido a Next Intl!",
+  "price": "Este producto cuesta {price, number, currency}",
+  "ordered": "Pedido el {orderDate, date, ::yyyyMMMd}"
+}

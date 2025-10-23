@@ -1,0 +1,6 @@
+version: 1
+files:
+  messages/en.json:
+    welcome: 3b59c8d7997fce5eb20e201f6bb96447
+    price: 5370f9c49fc554d4dffd426ce89a4556
+    ordered: aa6d932825a26da5d2b6a1ee3b9a98e3

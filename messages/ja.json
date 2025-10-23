@@ -1,0 +1,5 @@
+{
+  "welcome": "次世代国際へようこそ！",
+  "price": "この製品の価格は{price, number, currency}です",
+  "ordered": "{orderDate, date, ::yyyyMMMd}に注文されました"
+}

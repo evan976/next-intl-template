@@ -1,0 +1,5 @@
+{
+  "welcome": "欢迎来到 Next Intl！",
+  "price": "该产品的价格为 {price, number, currency}",
+  "ordered": "订购日期为 {orderDate, date, ::yyyyMMMd}"
+}

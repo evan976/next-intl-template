@@ -19,7 +19,10 @@
       }
     ],
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": ["./src/*"],
+      "@/messages/*": ["./messages/*"],
+      "@/public/*": ["./public/*"],
+      "languine.json": ["./languine.json"]
     }
   },
   "include": [
